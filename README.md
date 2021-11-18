@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chubakakid
 - 👀 I’m interested in understanding Kubernetes best practices, especially interested around security policy, engineering best practices, stateful storage requirements on Kubernetes, and managing Day-Two-Ops in production systems. 
 - 🌱 I’m currently learning Basic Programming, K8s best practices, and best-practcies being leveraged by large k8s / data-services deployments across  hybrid cloud environments. 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on... Handling scalable data-services on Kubernetes, building resiliency around Day-two Ops, Cloud-Migration campaigns / Application Portfolio Assessments & DevSecOps campaigns.
 - 📫 How to reach me ... https://www.linkedin.com/in/adamdedelva/ | adedelva@purestorage.com
 
 <!---
